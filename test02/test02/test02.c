@@ -2,21 +2,6 @@
 #include<stdio.h>
 
 
-<<<<<<< HEAD
-int main()
-{
-	//计算两个数的和
-	int num1 = 1;
-	int num2 = 2;
-	int sum = 3;
-	scanf_s("%d%d", &num1, &num2);//取地址符号
-	//输入数据 - 使用输入函数scanf
-	//int sum = 0;//（错误）C语言规定，变量要定义在当前代码块的最前面
-	sum = num1 + num2;
-	printf("sunm = %d\n", sum);
-	return 0;
-}
-=======
 //int main()
 //{
 //	//计算两个数的和
@@ -30,7 +15,6 @@ int main()
 //	printf("sunm = %d\n", sum);
 //	return 0;
 //}
->>>>>>> 0ab309a (Required)
 //int a = 100;
 //int main()
 //{
@@ -45,9 +29,6 @@ int main()
 //int main()
 //{
 //	int num2 = 10;//局部变量- 定义在代码块（{ }）之内的变量
-<<<<<<< HEAD
-//}
-=======
 //}
 //***********************变量的作用域和生命周期****************************
 //{
@@ -93,4 +74,3 @@ int main()
 	//printf("a = %d\n", a);//error
 	return 0;
 }
->>>>>>> 0ab309a (Required)

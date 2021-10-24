@@ -14,7 +14,14 @@
 	//函数-print function = printf - 打印函数
 	return 0;//返回 0
 }
+<<<<<<< HEAD
 */
+=======
+Required
+*/
+
+
+>>>>>>> 0ab309a (Required)
 //**************************************************
 int main()
 {
